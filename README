@@ -2,6 +2,8 @@ tabbed - generic tabbed interface
 =================================
 tabbed is a simple tabbed X window container.
 
+Keyrelease and HideTabs patches are already installed
+
 Requirements
 ------------
 In order to build tabbed you need the Xlib header files.
